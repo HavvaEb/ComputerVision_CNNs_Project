@@ -34,7 +34,7 @@ Libraries used :
 
 Three parts make up this project :
 
- model.py — This contains code for the machine learning model_Deep learning model to predict skin lesion based on the defined features.
+ model_notebook — This contains all the codes for the machine learning model_Deep learning model to predict skin lesion based on the defined features.
  
  app.py — This contains Flask APIs that receives mole and classes details through API calls, computes the predicted value based on our model and returns it.
 
